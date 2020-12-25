@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dupe-Checker", "Dupe-Checker.csproj", "{F2A9FB2F-1B01-45BD-B182-ADB02AFD38FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2A9FB2F-1B01-45BD-B182-ADB02AFD38FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2A9FB2F-1B01-45BD-B182-ADB02AFD38FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2A9FB2F-1B01-45BD-B182-ADB02AFD38FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2A9FB2F-1B01-45BD-B182-ADB02AFD38FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0785FFC-9ACD-4CCA-ACF2-5E1B12AA7EC0}
+	EndGlobalSection
+EndGlobal
